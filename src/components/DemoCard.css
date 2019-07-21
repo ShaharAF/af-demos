@@ -1,0 +1,14 @@
+img {
+  margin: auto;
+}
+
+.card .image {
+  background: white !important;
+  height: 288px;
+}
+
+.landscape img {
+  top: 0;
+  bottom: 0;
+  position: absolute;
+}
